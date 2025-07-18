@@ -114,4 +114,6 @@ Verify .onion links.
 Buying dark web products requires caution and diligence. Follow this guide for safety. Remember that engaging in market activities may be illegal in your jurisdiction.
 Plase contribute and add stars to this repo.
 
-Update:  07/14/2025
+
+
+Update: Link is now working and available
