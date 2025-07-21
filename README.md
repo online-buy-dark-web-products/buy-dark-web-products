@@ -116,4 +116,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: Link is now working and available
+
+
+Update: url updated and working
